@@ -54,10 +54,10 @@
 
     <section class="container teaser-section" aria-label="Reconstruction preview">
       <figure class="teaser">
-        <img src="static/images/expo-east.webp" width="1800" height="909" fetchpriority="high" alt="A Gaussian reconstruction of Expo East showing buildings, vegetation, paths, and water from an aerial view.">
+        <img src="static/images/expo-east.webp" width="1800" height="1013" fetchpriority="high" alt="Expo East Gaussian reconstruction rendered in Unreal Engine, showing garden buildings, trees, and ponds from an oblique aerial view.">
         <div class="teaser-label"><span class="tiny-label">EXPO EAST</span><span>3DGS reconstruction from consumer-drone imagery</span><a href="#explore">View reconstructed scenes <span aria-hidden="true">↗</span></a></div>
       </figure>
-      <p class="image-credit">Expo East · Gaussian reconstruction from real aerial captures</p>
+      <p class="image-credit">Expo East · Gaussian reconstruction rendered in Unreal Engine</p>
       <div class="pipeline-strip"><div><span>01</span><strong>Capture</strong><p>Automated oblique surveys</p></div><div><span>02</span><strong>Assess &amp; reacquire</strong><p>Learned regional quality feedback</p></div><div><span>03</span><strong>Reconstruct</strong><p>Gaussian scenes for UAV simulation</p></div></div>
     </section>
 
@@ -84,7 +84,7 @@
         <div class="section-heading"><div><h2 class="title section-title" id="explore-title">Reconstructed Scenes</h2></div><span class="section-note">Interactive GS viewer · Spark</span></div>
         <div class="scene-catalog"><label for="all-scenes">All scenes</label><select id="all-scenes" aria-label="Select any reconstructed scene"></select><p id="catalog-note">Field captures and reconstructions of real-world datasets. Simulation scenes are excluded.</p></div>
         <div class="viewer-shell" id="viewer-shell" aria-busy="false">
-          <img class="viewer-poster" id="viewer-poster" src="static/images/expo-east.webp" alt="Static preview of the Expo East reconstruction" width="1800" height="909" loading="lazy">
+          <img class="viewer-poster" id="viewer-poster" src="static/images/expo-east.webp" alt="Static preview of the Expo East reconstruction" width="1800" height="1013" loading="lazy">
           <div id="viewer-mount"></div>
           <div class="viewer-overlay" id="viewer-overlay">
             <span class="viewer-badge" id="viewer-badge">Interactive preview · Spark</span>

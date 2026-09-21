@@ -1,0 +1,109 @@
+WEBVTT
+
+1
+00:00:00.300 --> 00:00:08.892
+OpenFlyScan brings reconstruction quality feedback into aerial capture. helping consumer drones collect better views before Gaussian reconstruction.
+
+2
+00:00:09.360 --> 00:00:14.856
+OpenFlyScan starts with an initial survey using a consumer drone and our mobile app.
+
+3
+00:00:15.127 --> 00:00:17.791
+A remote workstation predicts regional quality.
+
+4
+00:00:18.460 --> 00:00:22.300
+Targeted reacquisition adds views of low-quality regions.
+
+5
+00:00:22.560 --> 00:00:26.736
+Initial and additional images are combined for Gaussian reconstruction.
+
+6
+00:00:26.993 --> 00:00:34.961
+Images and camera priors enter Pi3X. Region-view association links each region to its image observations.
+
+7
+00:00:35.227 --> 00:00:41.707
+The Quality Predictor processes geometry features and image features with separate multi-view Transformers.
+
+8
+00:00:41.960 --> 00:00:44.312
+The region descriptor guides region pooling.
+
+9
+00:00:44.560 --> 00:00:47.656
+Fusion outputs the predicted regional error.
+
+10
+00:00:48.260 --> 00:00:53.132
+Base supervision uses regional errors between captured images and GS renderings.
+
+11
+00:00:53.393 --> 00:00:59.537
+For Sparse supervision. we recompute reduced-view features and add a missing-view penalty to Base targets.
+
+12
+00:00:59.793 --> 00:01:03.009
+Regression and ranking train the Quality Predictor.
+
+13
+00:01:04.000 --> 00:01:07.192
+Here. the drone takes off for the initial survey.
+
+14
+00:01:20.917 --> 00:01:25.213
+The mobile app plans and executes the initial five-direction survey.
+
+15
+00:01:25.967 --> 00:01:33.119
+From the captured images. Pi3X reconstructs local point-cloud chunks. which are aligned into a common scene.
+
+16
+00:01:34.717 --> 00:01:37.617
+The GS quality model predicts regional quality.
+
+17
+00:01:37.767 --> 00:01:40.887
+The planner groups low-quality targets for additional views.
+
+18
+00:01:41.967 --> 00:01:49.599
+The app executes reacquisition routes. turning quality feedback into additional observations before the scene's GS model is trained.
+
+19
+00:01:51.717 --> 00:01:55.509
+Initial and additional images jointly reconstruct the scene.
+
+20
+00:01:56.067 --> 00:01:59.867
+Matched views compare the scene before and after reacquisition.
+
+21
+00:02:00.467 --> 00:02:04.403
+Our reconstruction shows clearer roof edges and panel structure.
+
+22
+00:02:06.967 --> 00:02:10.999
+The glass roof also shows more distinct framing and surface detail.
+
+23
+00:02:15.067 --> 00:02:20.731
+The reconstructed scene supports simulated flight with the AirSim plugin in Unreal Engine.
+
+24
+00:02:28.167 --> 00:02:32.511
+From a close view. we pull back to reveal the reconstructed site.
+
+25
+00:02:33.767 --> 00:02:41.639
+The collection spans campuses. residential neighborhoods. and urban districts. reconstructed from public datasets and our own captures.
+
+26
+00:02:41.967 --> 00:02:50.223
+We will release the Gaussian reconstructions of all datasets used in this study. together with scripts for importing them into Unreal Engine.
+
+27
+00:02:50.667 --> 00:02:58.767
+OpenFlyScan brings reconstruction quality feedback into aerial capture. connecting targeted reacquisition with reusable simulation scenes.

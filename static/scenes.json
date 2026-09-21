@@ -1,0 +1,1215 @@
+[
+  {
+    "id": "dishui-lake-exposure",
+    "name": "Dishui Lake",
+    "group": "Field captures",
+    "homeMatrix": [
+      0.8182680109016253,
+      -0.39622128545397445,
+      0.41646867263732773,
+      12.495343007893862,
+      0.5728177239440823,
+      0.5013597019386361,
+      -0.6484738270797996,
+      -5.762887347121604,
+      0.04813852376858621,
+      0.7691860257604792,
+      0.6372091809635035,
+      0.5384418441721655,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "fov": 52.785283096776425,
+    "provenance": "Existing DSW viewer asset and original home camera",
+    "url": "/openflyscan/releases/20260921/data/dishui-lake-exposure/point_cloud_baked-lod.rad",
+    "downloadBytes": 327956336,
+    "overview": {
+      "target": [
+        -20.594941638536227,
+        -6.989431195306805,
+        -14.198992544391063
+      ],
+      "up": [
+        -0.0037370518774150056,
+        -0.040858681654613906,
+        0.9991579467615281
+      ],
+      "axis": [
+        -0.9511070233061412,
+        -0.3084379208027147,
+        -0.016170319373153236
+      ],
+      "distance": 294.6274455773392
+    }
+  },
+  {
+    "id": "expo-east",
+    "name": "Expo East",
+    "group": "Field captures",
+    "homeMatrix": [
+      0.7912989970487114,
+      0.6047611959226359,
+      0.09005439009802137,
+      -4.408872039441694,
+      -0.6071021991542451,
+      0.7946218450628819,
+      -0.001744457205116107,
+      -3.8721293198897007,
+      -0.07261416564130413,
+      -0.05329183103520027,
+      0.9959353210390387,
+      -3.5029267564351447,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "fov": 52.785283096776425,
+    "provenance": "Existing DSW viewer asset and original home camera",
+    "url": "/openflyscan/releases/20260921/data/expo-east/point_cloud_baked-lod.rad",
+    "downloadBytes": 312357312,
+    "overview": {
+      "target": [
+        14.123640890979694,
+        8.065722253273515,
+        -13.761691469192506
+      ],
+      "up": [
+        0.0,
+        0.0,
+        1.0
+      ],
+      "axis": [
+        0.9907857483168995,
+        0.13543855039139244,
+        -0.0
+      ],
+      "distance": 187.56963627477452
+    }
+  },
+  {
+    "id": "expo-west",
+    "name": "Expo West",
+    "group": "Field captures",
+    "homeMatrix": [
+      0.6916280279069829,
+      -0.7222524986166265,
+      0.001413950330656795,
+      24.63993861357422,
+      0.7220308467617711,
+      0.6913644761402487,
+      -0.02620338634220156,
+      53.33662216927292,
+      0.017947906228229008,
+      0.019143912174864844,
+      0.9996556323497923,
+      -2.5387292630960068,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "fov": 40.51048360374187,
+    "provenance": "Existing DSW viewer asset and original home camera",
+    "url": "/openflyscan/releases/20260921/data/expo-west/point_cloud_baked-lod.rad",
+    "downloadBytes": 522081184,
+    "overview": {
+      "target": [
+        2.3279450721169455,
+        12.311063520549542,
+        -12.04183597946167
+      ],
+      "up": [
+        0.0,
+        0.0,
+        1.0
+      ],
+      "axis": [
+        0.10581308748748926,
+        -0.9943860369677187,
+        -0.0
+      ],
+      "distance": 164.7440328504795
+    }
+  },
+  {
+    "id": "gauu-cuhk-lower",
+    "group": "GauU Scene V2 \u00b7 Full",
+    "center": [
+      -0.20518970489501953,
+      0.6368279755115509,
+      1.0730293095111847
+    ],
+    "radius": 6.65825549413457,
+    "up": [
+      0.021601223538863155,
+      -0.7010912234913081,
+      -0.7127443324819108
+    ],
+    "view_axis": [
+      -0.07089705775779659,
+      -0.7121900949933974,
+      0.6983973623909122
+    ],
+    "iteration": 84319,
+    "splats": 7002193,
+    "name": "GauU \u00b7 CUHK Lower",
+    "provenance": "Existing DSW Spark gallery; visualization checkpoint, not a new evaluation",
+    "url": "/openflyscan/releases/20260921/data/gauu-cuhk-lower/model-lod.rad",
+    "downloadBytes": 184601744,
+    "overview": {
+      "target": [
+        -0.2007885795576339,
+        0.6244700625626787,
+        0.9317903811312434
+      ],
+      "up": [
+        0.021601223538863158,
+        -0.7010912234913083,
+        -0.7127443324819109
+      ],
+      "axis": [
+        -0.0708970577577966,
+        -0.7121900949933974,
+        0.6983973623909124
+      ],
+      "distance": 13.043841601455139
+    }
+  },
+  {
+    "id": "gauu-cuhk-upper-finite",
+    "group": "GauU Scene V2 \u00b7 Full",
+    "center": [
+      0.08132314682006836,
+      1.1716079711914062,
+      0.8028148412704468
+    ],
+    "radius": 6.086829530488611,
+    "up": [
+      -0.03388908227286712,
+      -0.6923098289441153,
+      -0.7208041556831319
+    ],
+    "view_axis": [
+      -0.05815779699030357,
+      0.7213623387410056,
+      -0.6901116191568877
+    ],
+    "iteration": 88639,
+    "splats": 7806677,
+    "name": "GauU \u00b7 CUHK Upper",
+    "provenance": "Existing DSW Spark gallery; visualization checkpoint, not a new evaluation",
+    "url": "/openflyscan/releases/20260921/data/gauu-cuhk-upper-finite/model-lod.rad",
+    "downloadBytes": 206878504,
+    "overview": {
+      "target": [
+        0.04605404717750802,
+        1.1498478492998276,
+        0.947043856491098
+      ],
+      "up": [
+        -0.03388908227286712,
+        -0.6923098289441153,
+        -0.7208041556831319
+      ],
+      "axis": [
+        -0.05815779699030357,
+        0.7213623387410056,
+        -0.6901116191568877
+      ],
+      "distance": 15.444156083054532
+    }
+  },
+  {
+    "id": "gauu-hav",
+    "group": "GauU Scene V2 \u00b7 Full",
+    "center": [
+      -0.020170211791992188,
+      0.865210771560669,
+      1.2950948476791382
+    ],
+    "radius": 6.905176007363716,
+    "up": [
+      -0.021273439694951612,
+      -0.6960470257083174,
+      -0.7176809728327412
+    ],
+    "view_axis": [
+      0.07800650850439281,
+      0.7144994660307786,
+      -0.6952736854452974
+    ],
+    "iteration": 60703,
+    "splats": 7692822,
+    "name": "GauU \u00b7 HAV",
+    "provenance": "Existing DSW Spark gallery; visualization checkpoint, not a new evaluation",
+    "url": "/openflyscan/releases/20260921/data/gauu-hav/model-lod.rad",
+    "downloadBytes": 202915760,
+    "overview": {
+      "target": [
+        -0.09545453270137828,
+        0.873551357329788,
+        1.2705012068125254
+      ],
+      "up": [
+        -0.021273439694951615,
+        -0.6960470257083176,
+        -0.7176809728327413
+      ],
+      "axis": [
+        0.07800650850439281,
+        0.7144994660307786,
+        -0.6952736854452974
+      ],
+      "distance": 19.1403942976453
+    }
+  },
+  {
+    "id": "gauu-smbu-finite",
+    "group": "GauU Scene V2 \u00b7 Full",
+    "center": [
+      0.07610845565795898,
+      1.9989559724926949,
+      0.3387446403503418
+    ],
+    "radius": 6.247697341284765,
+    "up": [
+      -0.0991204258936313,
+      -0.9302922095203691,
+      -0.35317353535673496
+    ],
+    "view_axis": [
+      -0.031162870338679424,
+      -0.35184520543680026,
+      0.9355393240924673
+    ],
+    "iteration": 99583,
+    "splats": 7507469,
+    "name": "GauU \u00b7 SMBU",
+    "provenance": "Existing DSW Spark gallery; visualization checkpoint, not a new evaluation",
+    "url": "/openflyscan/releases/20260921/data/gauu-smbu-finite/model-lod.rad",
+    "downloadBytes": 199430192,
+    "overview": {
+      "target": [
+        0.037910177915270474,
+        1.7582555173985075,
+        0.2583267477270175
+      ],
+      "up": [
+        -0.0991204258936313,
+        -0.9302922095203691,
+        -0.35317353535673496
+      ],
+      "axis": [
+        -0.031162870338679417,
+        -0.3518452054368002,
+        0.9355393240924673
+      ],
+      "distance": 16.708653676012908
+    }
+  },
+  {
+    "id": "gauu-sziit-finite",
+    "group": "GauU Scene V2 \u00b7 Full",
+    "center": [
+      0.6289838552474976,
+      0.7092963457107544,
+      0.7261877059936523
+    ],
+    "radius": 5.922322586137072,
+    "up": [
+      -0.02419964576979833,
+      -0.7321887132185582,
+      -0.680671775072221
+    ],
+    "view_axis": [
+      0.015809143625474302,
+      0.680505749484895,
+      -0.7325721779427816
+    ],
+    "iteration": 136639,
+    "splats": 6851045,
+    "name": "GauU \u00b7 SZIIT",
+    "provenance": "Existing DSW Spark gallery; visualization checkpoint, not a new evaluation",
+    "url": "/openflyscan/releases/20260921/data/gauu-sziit-finite/model-lod.rad",
+    "downloadBytes": 182312744,
+    "overview": {
+      "target": [
+        0.622912676997202,
+        0.5963807405312258,
+        0.6823535385580118
+      ],
+      "up": [
+        -0.02419964576979833,
+        -0.7321887132185582,
+        -0.680671775072221
+      ],
+      "axis": [
+        0.015809143625474302,
+        0.680505749484895,
+        -0.7325721779427816
+      ],
+      "distance": 16.57103178165304
+    }
+  },
+  {
+    "id": "skylume-buildings",
+    "group": "SkyLume",
+    "center": [
+      -0.7383,
+      0.3738,
+      1.2931
+    ],
+    "radius": 13.68,
+    "iteration": 370015,
+    "splats": 7451737,
+    "name": "SkyLume \u00b7 Buildings",
+    "provenance": "Existing DSW Spark gallery; visualization checkpoint, not a new evaluation",
+    "url": "/openflyscan/releases/20260921/data/skylume-buildings/model-lod.rad",
+    "downloadBytes": 197690840,
+    "overview": {
+      "target": [
+        -1.0372174183338005,
+        0.46303583622627775,
+        1.3718708547219125
+      ],
+      "up": [
+        0.8389074378518874,
+        0.289584861932825,
+        -0.4608415329113994
+      ],
+      "axis": [
+        -0.12706188311753194,
+        0.9275130591866634,
+        0.3515320794704572
+      ],
+      "distance": 17.98569042245837
+    }
+  },
+  {
+    "id": "skylume-gym",
+    "group": "SkyLume",
+    "center": [
+      0.07164239883422852,
+      2.3862959146499634,
+      0.731198787689209
+    ],
+    "radius": 7.752960664953761,
+    "up": [
+      -0.06440853595843024,
+      -0.9212498044666532,
+      -0.383601796484121
+    ],
+    "view_axis": [
+      0.9485421391594506,
+      -0.17594144426389988,
+      0.26327251742091584
+    ],
+    "iteration": 217759,
+    "splats": 7356612,
+    "name": "SkyLume \u00b7 Gym",
+    "provenance": "Existing DSW Spark gallery; visualization checkpoint, not a new evaluation",
+    "url": "/openflyscan/releases/20260921/data/skylume-gym/model-lod.rad",
+    "downloadBytes": 194528336,
+    "overview": {
+      "target": [
+        0.22363612111031708,
+        2.2380025669141044,
+        0.8063533190336619
+      ],
+      "up": [
+        -0.06440853595843024,
+        -0.9212498044666532,
+        -0.383601796484121
+      ],
+      "axis": [
+        0.9485421391594506,
+        -0.17594144426389974,
+        0.2632725174209159
+      ],
+      "distance": 20.79073552063606
+    }
+  },
+  {
+    "id": "skylume-campus",
+    "group": "SkyLume",
+    "center": [
+      -0.0309,
+      1.2016,
+      1.2749
+    ],
+    "radius": 14.19,
+    "up": [
+      0.014749,
+      -0.67261,
+      -0.73985
+    ],
+    "view_axis": [
+      -0.118231,
+      -0.735913,
+      0.666674
+    ],
+    "iteration": 348127,
+    "splats": 8065593,
+    "name": "SkyLume \u00b7 Main Campus",
+    "provenance": "Existing DSW Spark gallery; visualization checkpoint, not a new evaluation",
+    "url": "/openflyscan/releases/20260921/data/skylume-campus/model-lod.rad",
+    "downloadBytes": 214010448,
+    "overview": {
+      "target": [
+        -0.36882443759048095,
+        1.1333078018245908,
+        1.2858709107945234
+      ],
+      "up": [
+        0.014749001713826723,
+        -0.6726100781569593,
+        -0.7398500859702151
+      ],
+      "axis": [
+        -0.11823095498947178,
+        -0.7359128000929686,
+        0.6666736772526752
+      ],
+      "distance": 18.56241067212983
+    }
+  },
+  {
+    "id": "skylume-moon-bay-finite",
+    "group": "SkyLume",
+    "center": [
+      -0.34258556365966797,
+      0.9099984169006348,
+      1.012255072593689
+    ],
+    "radius": 6.339519362182003,
+    "up": [
+      -0.045430582925156254,
+      -0.7658421704890566,
+      -0.6414217271309814
+    ],
+    "view_axis": [
+      -0.9153902936109326,
+      0.289011384268314,
+      -0.28023745311111337
+    ],
+    "iteration": 927103,
+    "splats": 5983582,
+    "name": "SkyLume \u00b7 Moon Bay",
+    "provenance": "Existing DSW Spark gallery; visualization checkpoint, not a new evaluation",
+    "url": "/openflyscan/releases/20260921/data/skylume-moon-bay-finite/model-lod.rad",
+    "downloadBytes": 161349608,
+    "overview": {
+      "target": [
+        -0.4544210954263191,
+        0.9065708639624455,
+        -0.28983172512675665
+      ],
+      "up": [
+        -0.03363823634426473,
+        -0.7784535015243278,
+        -0.6268002991544928
+      ],
+      "axis": [
+        -0.5522696173307046,
+        -0.5082297281284132,
+        0.6608334232012759
+      ],
+      "distance": 15.278694212254582
+    }
+  },
+  {
+    "id": "skylume-staff-residence-finite",
+    "group": "SkyLume",
+    "center": [
+      -0.25116682052612305,
+      0.8807776570320129,
+      2.9589730501174927
+    ],
+    "radius": 7.231520461168033,
+    "up": [
+      0.011973077928749003,
+      -0.920216099083756,
+      -0.3912275250950359
+    ],
+    "view_axis": [
+      0.9973744624212113,
+      -0.016955038404612138,
+      0.07040389465575048
+    ],
+    "iteration": 267007,
+    "splats": 7097372,
+    "name": "SkyLume \u00b7 Staff Residence",
+    "provenance": "Existing DSW Spark gallery; visualization checkpoint, not a new evaluation",
+    "url": "/openflyscan/releases/20260921/data/skylume-staff-residence-finite/model-lod.rad",
+    "downloadBytes": 187965992,
+    "overview": {
+      "target": [
+        -0.27026673040756666,
+        0.7835261648810073,
+        2.7189671223682716
+      ],
+      "up": [
+        0.011973077928749005,
+        -0.9202160990837561,
+        -0.39122752509503594
+      ],
+      "axis": [
+        0.9973744624212113,
+        -0.016955038404612252,
+        0.07040389465575043
+      ],
+      "distance": 20.173021812775495
+    }
+  },
+  {
+    "id": "skylume-tec-school-finite",
+    "group": "SkyLume",
+    "center": [
+      0.524712085723877,
+      2.2935988903045654,
+      1.4901368618011475
+    ],
+    "radius": 7.808969080128859,
+    "up": [
+      0.010090256762783424,
+      -0.7770910228289666,
+      -0.6293073406191061
+    ],
+    "view_axis": [
+      -0.776884703253744,
+      -0.40232055611526657,
+      0.484343192351709
+    ],
+    "iteration": 249823,
+    "splats": 7325155,
+    "name": "SkyLume \u00b7 Tec School",
+    "provenance": "Existing DSW Spark gallery; visualization checkpoint, not a new evaluation",
+    "url": "/openflyscan/releases/20260921/data/skylume-tec-school-finite/model-lod.rad",
+    "downloadBytes": 194287744,
+    "overview": {
+      "target": [
+        0.6364612341525261,
+        2.197943548503643,
+        1.4271803187180752
+      ],
+      "up": [
+        0.010090256762783424,
+        -0.7770910228289666,
+        -0.6293073406191061
+      ],
+      "axis": [
+        -0.7768847032537441,
+        -0.4023205561152667,
+        0.484343192351709
+      ],
+      "distance": 20.541368061502283
+    }
+  },
+  {
+    "id": "skylume-town",
+    "group": "SkyLume",
+    "center": [
+      0.0578,
+      1.1923,
+      1.3086
+    ],
+    "radius": 13.62,
+    "up": [
+      0.009261,
+      -0.729396,
+      -0.684029
+    ],
+    "view_axis": [
+      0.208487,
+      -0.667616,
+      0.714718
+    ],
+    "iteration": 327679,
+    "splats": 8121166,
+    "name": "SkyLume \u00b7 Town",
+    "provenance": "Existing DSW Spark gallery; visualization checkpoint, not a new evaluation",
+    "url": "/openflyscan/releases/20260921/data/skylume-town/model-lod.rad",
+    "downloadBytes": 215767616,
+    "overview": {
+      "target": [
+        -0.14139056490671517,
+        1.4881272524765896,
+        0.7677779888973277
+      ],
+      "up": [
+        0.00931300032949887,
+        -0.7293883774144463,
+        -0.6840364485300354
+      ],
+      "axis": [
+        0.18539267917132063,
+        -0.6709470171809974,
+        0.7179551898590902
+      ],
+      "distance": 14.124379384911691
+    }
+  },
+  {
+    "id": "skylume-ipark",
+    "group": "SkyLume",
+    "center": [
+      -0.5157778263092041,
+      2.844674050807953,
+      1.8301844596862793
+    ],
+    "radius": 8.937353171496072,
+    "up": [
+      0.08445333019591297,
+      -0.8355038377816294,
+      -0.5429557735865682
+    ],
+    "view_axis": [
+      -0.8139143529493826,
+      0.2564973006976922,
+      -0.5212989169351739
+    ],
+    "iteration": 189919,
+    "splats": 7967961,
+    "name": "SkyLume \u00b7 iPark",
+    "provenance": "Existing DSW Spark gallery; visualization checkpoint, not a new evaluation",
+    "url": "/openflyscan/releases/20260921/data/skylume-ipark/model-lod.rad",
+    "downloadBytes": 211894296,
+    "overview": {
+      "target": [
+        -0.362553324793808,
+        2.261356100095909,
+        1.6290080134342004
+      ],
+      "up": [
+        0.08445333019591297,
+        -0.8355038377816294,
+        -0.5429557735865682
+      ],
+      "axis": [
+        -0.8139143529493826,
+        0.2564973006976922,
+        -0.5212989169351739
+      ],
+      "distance": 20.68695793509608
+    }
+  },
+  {
+    "id": "979f6a",
+    "group": "UAVFF3D Real",
+    "center": [
+      -0.3601,
+      0.7297,
+      0.4558
+    ],
+    "radius": 19.38,
+    "iteration": 80479,
+    "splats": 6980726,
+    "name": "UAVFF3D \u00b7 Building Facades",
+    "provenance": "Existing DSW Spark gallery; visualization checkpoint, not a new evaluation",
+    "url": "/openflyscan/releases/20260921/data/979f6a/model-lod.rad",
+    "downloadBytes": 184328928,
+    "overview": {
+      "target": [
+        -0.014329465253806961,
+        0.46096225943521213,
+        0.6818744229521825
+      ],
+      "up": [
+        -0.00784797432937207,
+        -0.8574854585598157,
+        -0.5144483430407645
+      ],
+      "axis": [
+        -0.9455572774461397,
+        -0.1610282455508062,
+        0.28282740179033794
+      ],
+      "distance": 18.218338100290705
+    }
+  },
+  {
+    "id": "81e073",
+    "group": "UAVFF3D Real",
+    "center": [
+      0.5141,
+      0.8105,
+      0.737
+    ],
+    "radius": 11.76,
+    "iteration": 84223,
+    "splats": 7336080,
+    "name": "UAVFF3D \u00b7 Buildings and Trees",
+    "provenance": "Existing DSW Spark gallery; visualization checkpoint, not a new evaluation",
+    "url": "/openflyscan/releases/20260921/data/81e073/model-lod.rad",
+    "downloadBytes": 188013424,
+    "overview": {
+      "target": [
+        0.33813357496582774,
+        0.6496323609945783,
+        0.8538483231775252
+      ],
+      "up": [
+        -0.5198949903652388,
+        -0.6336733901710435,
+        -0.5728588251762073
+      ],
+      "axis": [
+        -0.7789698040354371,
+        0.6269165272091082,
+        0.013480070959171198
+      ],
+      "distance": 16.88962033871726
+    }
+  },
+  {
+    "id": "9e07c9",
+    "group": "UAVFF3D Real",
+    "center": [
+      -0.1684,
+      -1.3148,
+      0.5467
+    ],
+    "radius": 10.94,
+    "iteration": 113503,
+    "splats": 7140803,
+    "name": "UAVFF3D \u00b7 Courtyards",
+    "provenance": "Existing DSW Spark gallery; visualization checkpoint, not a new evaluation",
+    "url": "/openflyscan/releases/20260921/data/9e07c9/model-lod.rad",
+    "downloadBytes": 186812792,
+    "overview": {
+      "target": [
+        0.14643287534518304,
+        -1.217685317755727,
+        0.3664122083382472
+      ],
+      "up": [
+        -0.07580855872478715,
+        0.9301864073948781,
+        -0.3591744839515745
+      ],
+      "axis": [
+        0.7628976152505582,
+        0.28605183831440795,
+        0.5797944242936103
+      ],
+      "distance": 14.629975446983568
+    }
+  },
+  {
+    "id": "8eb2db",
+    "group": "UAVFF3D Real",
+    "center": [
+      0.1639,
+      1.5242,
+      1.4095
+    ],
+    "radius": 10.91,
+    "iteration": 67519,
+    "splats": 7031064,
+    "name": "UAVFF3D \u00b7 High-Rise Housing",
+    "provenance": "Existing DSW Spark gallery; visualization checkpoint, not a new evaluation",
+    "url": "/openflyscan/releases/20260921/data/8eb2db/model-lod.rad",
+    "downloadBytes": 179518584,
+    "overview": {
+      "target": [
+        0.1673587941518686,
+        1.010324020234519,
+        1.1809072881669957
+      ],
+      "up": [
+        -0.24286126458217813,
+        -0.820455109844175,
+        -0.517563347713232
+      ],
+      "axis": [
+        -0.7570153880592595,
+        -0.17332928120716382,
+        0.6299878272773981
+      ],
+      "distance": 8.830226695291797
+    }
+  },
+  {
+    "id": "64b098",
+    "group": "UAVFF3D Real",
+    "center": [
+      0.0323,
+      -0.5387,
+      1.5141
+    ],
+    "radius": 13.92,
+    "iteration": 113119,
+    "splats": 7669637,
+    "name": "UAVFF3D \u00b7 Hillside Village",
+    "provenance": "Existing DSW Spark gallery; visualization checkpoint, not a new evaluation",
+    "url": "/openflyscan/releases/20260921/data/64b098/model-lod.rad",
+    "downloadBytes": 198740520,
+    "overview": {
+      "target": [
+        -0.2201061429018789,
+        -0.5691480768415975,
+        1.4714831259183592
+      ],
+      "up": [
+        0.0502100571343307,
+        0.5735561945970535,
+        -0.8176259791627918
+      ],
+      "axis": [
+        -0.6705624616262634,
+        -0.587337131697816,
+        -0.45318989263520487
+      ],
+      "distance": 18.41165697298818
+    }
+  },
+  {
+    "id": "f08edb",
+    "group": "UAVFF3D Real",
+    "center": [
+      0.0447,
+      -1.5913,
+      0.0791
+    ],
+    "radius": 12.36,
+    "iteration": 85663,
+    "splats": 7275879,
+    "name": "UAVFF3D \u00b7 Mountain Town",
+    "provenance": "Existing DSW Spark gallery; visualization checkpoint, not a new evaluation",
+    "url": "/openflyscan/releases/20260921/data/f08edb/model-lod.rad",
+    "downloadBytes": 188858280,
+    "overview": {
+      "target": [
+        0.26439738719600053,
+        -1.496867953591607,
+        0.21331490507631903
+      ],
+      "up": [
+        -0.005823886072239897,
+        0.9550092728066526,
+        -0.29651875354575147
+      ],
+      "axis": [
+        -0.27586704345195223,
+        -0.2865514046182478,
+        -0.9174887829550769
+      ],
+      "distance": 15.987722257940108
+    }
+  },
+  {
+    "id": "01161",
+    "group": "UAVFF3D Real",
+    "center": [
+      0.1712,
+      0.0082,
+      2.3471
+    ],
+    "radius": 11.36,
+    "iteration": 55903,
+    "splats": 7344467,
+    "name": "UAVFF3D \u00b7 Office Buildings",
+    "provenance": "Existing DSW Spark gallery; visualization checkpoint, not a new evaluation",
+    "url": "/openflyscan/releases/20260921/data/01161/model-lod.rad",
+    "downloadBytes": 187279528,
+    "overview": {
+      "target": [
+        -0.04299867100495809,
+        -0.1254077875447245,
+        2.107286175847866
+      ],
+      "up": [
+        -0.003070087562253609,
+        -0.001506766488751976,
+        -0.9999941520914551
+      ],
+      "axis": [
+        0.015186070784615015,
+        -0.9998836190882369,
+        0.0014599771006714138
+      ],
+      "distance": 15.260897432944695
+    }
+  },
+  {
+    "id": "b6124f",
+    "group": "UAVFF3D Real",
+    "center": [
+      0.8555,
+      1.1188,
+      0.9047
+    ],
+    "radius": 12.11,
+    "iteration": 63487,
+    "splats": 6477599,
+    "name": "UAVFF3D \u00b7 Public Buildings",
+    "provenance": "Existing DSW Spark gallery; visualization checkpoint, not a new evaluation",
+    "url": "/openflyscan/releases/20260921/data/b6124f/model-lod.rad",
+    "downloadBytes": 166109040,
+    "overview": {
+      "target": [
+        1.1548016577121079,
+        1.4851591732054352,
+        0.4354070447971619
+      ],
+      "up": [
+        -0.4302824073736694,
+        -0.766799935580277,
+        -0.47631387624003096
+      ],
+      "axis": [
+        0.6828573823310741,
+        0.06861281224229253,
+        -0.7273225401375634
+      ],
+      "distance": 9.596943185403363
+    }
+  },
+  {
+    "id": "53ce70",
+    "group": "UAVFF3D Real",
+    "center": [
+      0.2053,
+      -0.8412,
+      1.3953
+    ],
+    "radius": 13.78,
+    "iteration": 118495,
+    "splats": 7695099,
+    "name": "UAVFF3D \u00b7 School",
+    "provenance": "Existing DSW Spark gallery; visualization checkpoint, not a new evaluation",
+    "url": "/openflyscan/releases/20260921/data/53ce70/model-lod.rad",
+    "downloadBytes": 201327136,
+    "overview": {
+      "target": [
+        0.7326673892433349,
+        -0.9828968369385493,
+        1.1983076858903092
+      ],
+      "up": [
+        0.01212795792478043,
+        0.5812165181648907,
+        -0.8136585719138314
+      ],
+      "axis": [
+        -0.2848077300901573,
+        -0.7780050346938782,
+        -0.5599935025264755
+      ],
+      "distance": 15.62359813642879
+    }
+  },
+  {
+    "id": "c83595",
+    "group": "UAVFF3D Real",
+    "center": [
+      0.0756,
+      -0.88,
+      1.1647
+    ],
+    "radius": 11.67,
+    "iteration": 110047,
+    "splats": 7370606,
+    "name": "UAVFF3D \u00b7 Village",
+    "provenance": "Existing DSW Spark gallery; visualization checkpoint, not a new evaluation",
+    "url": "/openflyscan/releases/20260921/data/c83595/model-lod.rad",
+    "downloadBytes": 192366448,
+    "overview": {
+      "target": [
+        0.10684139254902465,
+        -1.046253677147776,
+        0.9433173588853677
+      ],
+      "up": [
+        0.09605905872401035,
+        0.6413122112337811,
+        -0.7612432626693617
+      ],
+      "axis": [
+        -0.15385897449701316,
+        0.7651547622388833,
+        0.6251924550007667
+      ],
+      "distance": 15.87301309339861
+    }
+  },
+  {
+    "id": "urbanscene3d-campus-finite",
+    "group": "UrbanScene3D",
+    "center": [
+      0.44846296310424805,
+      0.5449459552764893,
+      0.6305654048919678
+    ],
+    "radius": 6.404798819977227,
+    "up": [
+      -0.02120581483646767,
+      -0.7054599469609849,
+      -0.708432478540422
+    ],
+    "view_axis": [
+      0.9997550725225485,
+      -0.010474312665514515,
+      -0.01949573644720717
+    ],
+    "iteration": 583615,
+    "splats": 6623614,
+    "name": "UrbanScene3D \u00b7 Campus",
+    "provenance": "Existing DSW Spark gallery; visualization checkpoint, not a new evaluation",
+    "url": "/openflyscan/releases/20260921/data/urbanscene3d-campus-finite/model-lod.rad",
+    "downloadBytes": 178511872,
+    "overview": {
+      "target": [
+        0.4429460386522121,
+        0.45507246651493793,
+        0.532344839736711
+      ],
+      "up": [
+        -0.021205814836467673,
+        -0.705459946960985,
+        -0.7084324785404221
+      ],
+      "axis": [
+        0.9997550725225485,
+        -0.010474312665514521,
+        -0.019495736447207177
+      ],
+      "distance": 16.456799881770607
+    }
+  },
+  {
+    "id": "urbanscene3d-hospital-rig-20260908",
+    "group": "UrbanScene3D",
+    "center": [
+      -0.018857717514038086,
+      1.031104326248169,
+      1.9999979138374329
+    ],
+    "radius": 6.975833139461319,
+    "up": [
+      -0.006884459499403561,
+      -0.47879095210021544,
+      -0.8779019469191137
+    ],
+    "view_axis": [
+      -0.9835677589176017,
+      -0.15514588701147247,
+      0.09232668823926263
+    ],
+    "iteration": 258559,
+    "splats": 7500039,
+    "name": "UrbanScene3D \u00b7 Hospital",
+    "provenance": "Existing DSW Spark gallery; visualization checkpoint, not a new evaluation",
+    "url": "/openflyscan/releases/20260921/data/urbanscene3d-hospital-rig-20260908/model-lod.rad",
+    "downloadBytes": 200151952,
+    "overview": {
+      "target": [
+        -0.017230717468700335,
+        0.9992351777781975,
+        1.8878354693823194
+      ],
+      "up": [
+        -0.006884459499403561,
+        -0.47879095210021544,
+        -0.8779019469191137
+      ],
+      "axis": [
+        -0.9835677589176017,
+        -0.15514588701147247,
+        0.09232668823926263
+      ],
+      "distance": 18.336979363597916
+    }
+  },
+  {
+    "id": "urbanscene3d-residence",
+    "group": "UrbanScene3D",
+    "center": [
+      0.11448025703430176,
+      1.5951898097991943,
+      1.4695801734924316
+    ],
+    "radius": 8.731678438326595,
+    "up": [
+      -0.18341892144325636,
+      -0.6813430970896308,
+      -0.7086106711762831
+    ],
+    "view_axis": [
+      0.9828057345117516,
+      -0.1426602476798606,
+      -0.1172217639465361
+    ],
+    "iteration": 267871,
+    "splats": 5888017,
+    "name": "UrbanScene3D \u00b7 Residence",
+    "provenance": "Existing DSW Spark gallery; visualization checkpoint, not a new evaluation",
+    "url": "/openflyscan/releases/20260921/data/urbanscene3d-residence/model-lod.rad",
+    "downloadBytes": 159039240,
+    "overview": {
+      "target": [
+        0.11529489073773051,
+        1.517877056698231,
+        1.4447222436386873
+      ],
+      "up": [
+        -0.1834189214432564,
+        -0.6813430970896309,
+        -0.7086106711762832
+      ],
+      "axis": [
+        0.9828057345117516,
+        -0.1426602476798606,
+        -0.1172217639465361
+      ],
+      "distance": 24.362934520752038
+    }
+  },
+  {
+    "id": "urbanscene3d-sci-art-finite",
+    "group": "UrbanScene3D",
+    "center": [
+      1.1359856128692627,
+      1.0703356266021729,
+      1.545362949371338
+    ],
+    "radius": 12.018707279389202,
+    "up": [
+      -0.10986388786099104,
+      -0.4892475747241579,
+      -0.8651975131555782
+    ],
+    "view_axis": [
+      0.9118022352109745,
+      -0.39611489172199704,
+      0.10821125828831954
+    ],
+    "iteration": 309823,
+    "splats": 5690573,
+    "name": "UrbanScene3D \u00b7 Sci-Art",
+    "provenance": "Existing DSW Spark gallery; visualization checkpoint, not a new evaluation",
+    "url": "/openflyscan/releases/20260921/data/urbanscene3d-sci-art-finite/model-lod.rad",
+    "downloadBytes": 153124936,
+    "overview": {
+      "target": [
+        0.40213899983246354,
+        1.0259664648546416,
+        1.4350077717768501
+      ],
+      "up": [
+        -0.10986388786099105,
+        -0.489247574724158,
+        -0.8651975131555784
+      ],
+      "axis": [
+        0.9118022352109745,
+        -0.39611489172199704,
+        0.10821125828831951
+      ],
+      "distance": 31.815028015246142
+    }
+  }
+]

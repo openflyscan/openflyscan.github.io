@@ -4,7 +4,7 @@ window.OPENFLYSCAN_CONFIG = {
   links: {
     arxiv: 'https://arxiv.org/abs/2609.24253',
     code: 'https://github.com/mistletoe235/OpenFlyScan',
-    app: 'https://github.com/mistletoe235/OpenFlyScan/releases/tag/preview-20260922',
+    app: 'https://github.com/mistletoe235/OpenFlyGo-Android-V5',
     datasets: 'https://huggingface.co/datasets/mistletoe235/openflyscan/tree/main/HIL-simulator'
   },
   scenes: [

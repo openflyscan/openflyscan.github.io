@@ -5,7 +5,7 @@ window.OPENFLYSCAN_CONFIG = {
     arxiv: 'https://arxiv.org/abs/2609.24253',
     code: 'https://github.com/mistletoe235/OpenFlyScan',
     app: 'https://github.com/mistletoe235/OpenFlyScan/releases/tag/preview-20260922',
-    datasets: 'https://github.com/mistletoe235/OpenFlyScan/blob/main/docs/simulator.md'
+    datasets: 'https://huggingface.co/datasets/mistletoe235/openflyscan/tree/main/HIL-simulator'
   },
   scenes: [
     {

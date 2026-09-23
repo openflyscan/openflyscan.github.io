@@ -3,9 +3,9 @@ window.OPENFLYSCAN_CONFIG = {
   viewerBase: 'https://gs.openflygo.com/openflyscan/releases/20260921/viewer/',
   links: {
     arxiv: 'https://arxiv.org/abs/2609.24253',
-    code: null,
-    app: null,
-    datasets: null
+    code: 'https://github.com/mistletoe235/OpenFlyScan',
+    app: 'https://github.com/mistletoe235/OpenFlyScan/releases/tag/preview-20260922',
+    datasets: 'https://huggingface.co/datasets/IPEC-COMMUNITY/openflyscan'
   },
   scenes: [
     {

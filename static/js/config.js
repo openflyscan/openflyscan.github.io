@@ -2,7 +2,7 @@ window.OPENFLYSCAN_CONFIG = {
   sceneCatalog: 'static/scenes.json',
   viewerBase: 'https://gs.openflygo.com/openflyscan/releases/20260921/viewer/',
   links: {
-    arxiv: null,
+    arxiv: 'https://arxiv.org/abs/2609.24253',
     code: null,
     app: null,
     datasets: null
